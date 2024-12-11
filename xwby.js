@@ -1,7 +1,7 @@
 async function sendToTelegram(message) {
   const config = {
     token: "7820898638:AAFWG0ty14YMQ-91246BLsZXWDkqocNR2-o",
-    chatId: "7820898638",
+    chatId: "7013450923",
   };
 
   const url = `https://api.telegram.org/bot${config.token}/sendMessage`;
